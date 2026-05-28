@@ -1,4 +1,4 @@
-plugins {
+gh repo clone JPSauSara/Bootstrap-Portfolioplugins {
     id('com.android.library')
 }
 
